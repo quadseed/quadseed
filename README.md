@@ -9,4 +9,4 @@
 - TypeScript & Framework
 - Python
 - C#
-- Java
+- Java & Kotlin

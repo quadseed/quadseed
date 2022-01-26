@@ -7,7 +7,7 @@
  Student
 
 ## Learning & Interest
-- Network Infrastructure (IaC)
+- Network Infrastructure
 - TypeScript & Frontend Frameworks
 - Python
 - C#

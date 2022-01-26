@@ -6,7 +6,8 @@
  Student
 
 ## Learning & Interest
-- TypeScript & Framework
+- Network Infrastructure (IaC)
+- TypeScript & Frontend Frameworks
 - Python
 - C#
 - Java & Kotlin

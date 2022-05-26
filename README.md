@@ -10,6 +10,8 @@
 ## Learning & Interest
 - Network Infrastructure
 - TypeScript & Frontend Frameworks
+- Go
+- Flutter
 - Python
 - C#
 - Java & Kotlin

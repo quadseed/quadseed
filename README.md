@@ -1,17 +1,4 @@
-## GitHub Statistics
-<img alt="Stats" height="165px"
-     src="https://github-readme-stats.vercel.app/api?username=quadseed&show_icons=true&count_private=true&theme=slateorange&include_all_commits=true" />
-     <img alt="TopLang" height="165px"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=quadseed&layout=compact&theme=slateorange" />
+### Hello
 
-## Profile
- Student
-
-## Learning & Interest
-- Network Infrastructure
-- TypeScript & Frontend Frameworks
-- Go
-- Flutter
-- Python
-- C#
-- Java & Kotlin
+<img align="left" width="385" alt="base" src="https://github.com/quadseed/quadseed/blob/main/base.svg">
+<img align="right" width="385" alt="achievements" src="https://github.com/quadseed/quadseed/blob/main/achievements.svg">

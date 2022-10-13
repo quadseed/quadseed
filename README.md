@@ -1,2 +1,2 @@
-<img align="left" width="420" alt="base" src="https://github.com/quadseed/quadseed/blob/main/base.svg">
+<img align="left" width="400" alt="base" src="https://github.com/quadseed/quadseed/blob/main/base.svg">
 <img align="right" width="390" alt="achievements" src="https://github.com/quadseed/quadseed/blob/main/achievements.svg">

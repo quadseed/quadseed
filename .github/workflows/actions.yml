@@ -1,7 +1,6 @@
 name: Metrics
 
 on:
-  schedule: [{cron: '0 0/12 * * *'}]
   workflow_dispatch:
   push:
     branches:
